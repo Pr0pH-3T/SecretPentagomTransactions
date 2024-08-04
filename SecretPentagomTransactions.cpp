@@ -69,5 +69,4 @@ int main()
     double sum = mninfo.MoneySum();
     mninfo.ReportOfInOut();
     cout << "General:" << sum << endl;
-
 }
